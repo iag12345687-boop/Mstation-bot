@@ -1,0 +1,13 @@
+{
+"name": "Mstation-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "@discordjs/voice": "^0.16.0",
+    "play-dl": "^1.9.6"
+  }
+}
