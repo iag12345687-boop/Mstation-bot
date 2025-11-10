@@ -12,8 +12,8 @@ const client = new Client({
 const TOKEN = process.env.TOKEN;
 
 // CONFIGURE THIS:
-const GUILD_ID = "YOUR_SERVER_ID";
-const VOICE_CHANNEL_ID = "YOUR_VC_ID";
+const GUILD_ID = "880317133337284639";
+const VOICE_CHANNEL_ID = "880317133337284643";
 const STREAM_URL = "https://stream-ssl.radionomy.com/ABCJAZZ"; // example radio
 
 client.on("ready", async () => {
